@@ -1,0 +1,28 @@
+.Outputscreen {
+  margin: 0px auto;
+  width: 20vw;
+  height: auto;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.disp {
+  width: 19vw;
+  height: 2.5vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+  margin: 5px;
+
+  background-color: #6474cfab;
+  font-family: Cambria Math;
+  font-size: 2vw;
+  text-align: right;
+  border: solid black;
+}
